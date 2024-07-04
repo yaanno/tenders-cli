@@ -1,0 +1,238 @@
+{
+    "vezetoAjanlatkeroSzervezet": {
+        "id": 8798388352304,
+        "rovidMegnevezes": "Sopronhorp\u00e1cs K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+        "teljesMegnevezes": "Sopronhorp\u00e1cs K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+        "szekhely": {
+            "orszag": "Magyarorsz\u00e1g",
+            "iranyitoszam": "9463",
+            "telepules": "Sopronhorp\u00e1cs",
+            "kozterNeve": "F\u0151",
+            "kozterJellege": "utca",
+            "hazszam": "14.",
+            "helyrajziszam": "",
+            "nutsKod": "HU221"
+        },
+        "ajanlatkeroJogalapok20200722Utan": "Kbt. 5. \u00a7 (1) bekezd\u00e9s c) pont",
+        "kozszolgaltatoJogalap": null,
+        "fotevekenysegiKod": null
+    },
+    "kozbeszerzesiEljaras": {
+        "id": 8799616496971,
+        "technikaiAzonosito": "EKR001092402021",
+        "vezetoAjanlatkeroSzervezet": {
+            "teljesMegnevezes": "Sopronhorp\u00e1cs K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+            "adoszam": "15367125208",
+            "heaEuropaiUniosAdoszam": null,
+            "kulsoNyilvantartasMegnevezes": null,
+            "kulsoNyilvantartasSzerintiAzonosito": null,
+            "ajanlatkeroJogalapok20200722Utan": null,
+            "szervezetTipusok": null,
+            "fotevekenysegiEgyeb": null,
+            "statusz": null,
+            "postaiCimEgyezikASzekhellyel": null,
+            "postaiCimPostafiok": null,
+            "kozszolgaltato": null,
+            "klasszikusAjanlatkero": null,
+            "klasszikusAjanlatkeroTipus": null,
+            "ajanlatkeroTipus": null,
+            "egyebAjanlatkeroTipus": null,
+            "szervezetTevekenysegek": [],
+            "egyebSzervezetTevekenyseg": null,
+            "kozszolgaltatoJogalap": null,
+            "kozszolgaltatoTevekenysegiKorok": [],
+            "eljarasEllenorzesFeladatok": [],
+            "nyilvantartasVezetoFeladatok": [],
+            "egyebErdekeltSzervezetFeladatok": [],
+            "egyebErdekeltSzervezetEgyebFeladata": null,
+            "vallalkozasTipus": null,
+            "cegSzekhelyTipus": null,
+            "szekhely": {
+                "orszag": "Magyarorsz\u00e1g",
+                "iranyitoszam": "9463",
+                "telepules": "Sopronhorp\u00e1cs",
+                "kozterNeve": "F\u0151",
+                "kozterJellege": "utca",
+                "hazszam": "14.",
+                "helyrajziszam": "",
+                "nutsKod": "HU221"
+            },
+            "levelezesiCim": null,
+            "kapcsolat": null,
+            "technikaiAzonosito": "EKRSZ_46512813",
+            "id": 8798388352304,
+            "szerkesztheto": null,
+            "jogalanyTipus": "JOGI_SZEMELY",
+            "ervenyessegVege": null,
+            "rovidMegnevezes": "Sopronhorp\u00e1cs K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+            "tulajdonosIlletosege": null,
+            "adoazonositoJel": null
+        },
+        "szerzodesTipusa": "\u00c9p\u00edt\u00e9si beruh\u00e1z\u00e1s",
+        "kozbeszerzesiEljarasTargya": "Napk\u00f6ziotthonos \u00f3voda b\u0151v\u00edt\u00e9se",
+        "iranyadoEljarasiRend": "Nemzeti elj\u00e1r\u00e1srend",
+        "kozbeszerzesiEljarasTipusa": "Kbt. 115. \u00a7 Ny\u00edlt elj\u00e1r\u00e1s",
+        "eljarasAktualisSzakasza": "E60 - Szerz\u0151d\u00e9sk\u00f6t\u00e9si-, teljes\u00edt\u00e9si szakasz",
+        "jogosultsagKarbantartoJoggalRendelkezik": null,
+        "eljarasMegnyitoJoggalRendelkezik": null,
+        "teljesitesHelye": "HU221 Gy\u0151r-Moson-Sopron",
+        "legkozelebbiHatarido": "2021.10.05. 12:00",
+        "inditoKm1EljarasTargya": null,
+        "inditoKm1EljarastechnikaiAzonosito": null,
+        "eljarasMeginditasanakDatuma": "2021-09-16T22:00:00.000+0000",
+        "ajanlatteteliHatarido": "2021-10-05T10:00:00.000+0000",
+        "eljarasHataridok": [],
+        "hirdetmenyek": [
+            {
+                "hirdetmenyIktatoszam": "22276\/2021",
+                "tedAzonosito": null,
+                "hirdetmenyTipusa": "Nemzeti, T\u00e1j\u00e9koztat\u00f3 az elj\u00e1r\u00e1s eredm\u00e9ny\u00e9r\u0151l"
+            }
+        ]
+    },
+    "kapcsolodoDokumentumok": [
+        {
+            "id": 8810063033685,
+            "dokumentumNeve": "\u00d6sszegez\u00e9s az aj\u00e1nlatok elb\u00edr\u00e1l\u00e1s\u00e1r\u00f3l",
+            "dokumentumTipusa": "\u00d6sszegez\u00e9s az aj\u00e1nlatok elb\u00edr\u00e1l\u00e1s\u00e1r\u00f3l",
+            "publikalasDatuma": "2021-10-27T09:17:34.203+0000",
+            "megjegyzes": "",
+            "eljarasDokumentumBlokk": "OSSZEGZES_AJANLAT_ELBIRALAS_BLOKK"
+        },
+        {
+            "id": 8809941726549,
+            "dokumentumNeve": "Aj\u00e1nlatt\u00e9telre felh\u00edvott gazdas\u00e1gi szerepl\u0151k publik\u00e1l\u00e1sa",
+            "dokumentumTipusa": "Az aj\u00e1nlatt\u00e9telre felh\u00edvott gazdas\u00e1gi szerepl\u0151k neve, c\u00edme",
+            "publikalasDatuma": "2021-10-05T13:16:19.250+0000",
+            "megjegyzes": "",
+            "eljarasDokumentumBlokk": "AJANLATTETELRE_FELHIVOTTAK_BLOKK"
+        },
+        {
+            "id": 8809941693781,
+            "dokumentumNeve": "Bont\u00e1si jegyz\u0151k\u00f6nyv",
+            "dokumentumTipusa": "Bont\u00e1si jegyz\u0151k\u00f6nyv",
+            "publikalasDatuma": "2021-10-05T13:16:19.139+0000",
+            "megjegyzes": "",
+            "eljarasDokumentumBlokk": "BONTASI_JEGYZOKONYV_BLOKK"
+        },
+        {
+            "id": 8809861117269,
+            "dokumentumNeve": "M\u00f3dos\u00edtott szerz\u0151d\u00e9stervezet",
+            "dokumentumTipusa": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-21T08:37:57.192+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839981909,
+            "dokumentumNeve": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3 - Beny\u00fajtand\u00f3 iratok",
+            "dokumentumTipusa": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:36.383+0000",
+            "megjegyzes": "",
+            "eljarasDokumentumBlokk": "KOZBESZERZESI_DOKUMENTACIO_BLOKK"
+        },
+        {
+            "id": 8809839949141,
+            "dokumentumNeve": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3 - Nyilatkozat \u00f6ssze\u00e1ll\u00edt\u00f3",
+            "dokumentumTipusa": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:36.278+0000",
+            "megjegyzes": "",
+            "eljarasDokumentumBlokk": "KOZBESZERZESI_DOKUMENTACIO_BLOKK"
+        },
+        {
+            "id": 8809839916373,
+            "dokumentumNeve": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3 - Aj\u00e1nlati\/r\u00e9szv\u00e9teli felh\u00edv\u00e1s",
+            "dokumentumTipusa": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:36.176+0000",
+            "megjegyzes": "",
+            "eljarasDokumentumBlokk": "KOZBESZERZESI_DOKUMENTACIO_BLOKK"
+        },
+        {
+            "id": 8809839883605,
+            "dokumentumNeve": "\u00c1razatlan k\u00f6lts\u00e9gvet\u00e9sek",
+            "dokumentumTipusa": "R\u00e9szletes \u00e1rt\u00e1bl\u00e1zat vagy \u00e1razatlan k\u00f6lts\u00e9gvet\u00e9s",
+            "publikalasDatuma": "2021-09-17T12:06:36.076+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839850837,
+            "dokumentumNeve": "\u00c9p\u00edt\u00e9si enged\u00e9ly",
+            "dokumentumTipusa": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:35.971+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839818069,
+            "dokumentumNeve": "\u00c9p\u00edt\u00e9si enged\u00e9ly v\u00e9glegess\u00e9g\u00e9 v\u00e1l\u00e1s\u00e1r\u00f3l sz\u00f3l\u00f3 hat\u00e1rozat",
+            "dokumentumTipusa": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:35.867+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839785301,
+            "dokumentumNeve": "Kivitelez\u00e9si tervek",
+            "dokumentumTipusa": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:16.467+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839752533,
+            "dokumentumNeve": "Villany tervek",
+            "dokumentumTipusa": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:16.366+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839719765,
+            "dokumentumNeve": "V\u00edz, g\u00e1z, f\u0171t\u00e9s tervek",
+            "dokumentumTipusa": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:16.269+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        },
+        {
+            "id": 8809839686997,
+            "dokumentumNeve": "K\u00f6zbeszerz\u00e9si dokumentumok szerz\u0151d\u00e9stervezettel",
+            "dokumentumTipusa": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "publikalasDatuma": "2021-09-17T12:06:16.169+0000",
+            "megjegyzes": null,
+            "eljarasDokumentumBlokk": "EGYEB_DOKUMENTUM_BLOKK"
+        }
+    ],
+    "erdeklodesJelzeseEljarasra": false,
+    "erdeklodesJelzeseOsszefoglaloTajekoztatoAlapajan": false,
+    "elozetesenErdeklodesJelzeseEljarasra": false,
+    "hirdetmenyek": [
+        {
+            "id": 8799863731547,
+            "hirdetmenyEKRazonosito": "EKR001092402021\/H001",
+            "ajanlatkeroNeve": "Sopronhorp\u00e1cs K\u00f6zs\u00e9g \u00d6nkorm\u00e1nyzata",
+            "eljarasTargya": "Napk\u00f6ziotthonos \u00f3voda b\u0151v\u00edt\u00e9se",
+            "hirdetmenyIktatoszam": "22276\/2021",
+            "tedAzonosito": null,
+            "hirdetmenyTipusa": "Nemzeti, T\u00e1j\u00e9koztat\u00f3 az elj\u00e1r\u00e1s eredm\u00e9ny\u00e9r\u0151l",
+            "eljarasAjanlatteteliHatarido": "2021-10-05T10:00:00.000+0000",
+            "hirdetmenyKozzetetelDatuma": "2021-11-09T23:00:00.000+0000",
+            "eljarasTechnikaiAzonosito": "EKR001092402021",
+            "eljarasBeszerzesTargya": "\u00c9p\u00edt\u00e9si beruh\u00e1z\u00e1s",
+            "eljarasCPVkod": [],
+            "eljarasNyertesAjanlattevoNeve": "BAUWERK-N \u00c9PIT\u0150IPARI KFT",
+            "eljarasTeljesitesHelye": "HU221 Gy\u0151r-Moson-Sopron",
+            "eljarasEljarasRend": "Nemzeti elj\u00e1r\u00e1srend",
+            "eljarasEljarasTipusa": "Kbt. 115. \u00a7 Ny\u00edlt elj\u00e1r\u00e1s",
+            "ajanlatkeroTipus": "Region\u00e1lis vagy helyi hat\u00f3s\u00e1g",
+            "ajanlatkeroKozszolgTevekenysegiKor": null,
+            "ajanlatkeroKlasszikusTevekenysegiKor": "\u00c1ltal\u00e1nos k\u00f6zszolg\u00e1ltat\u00e1sok",
+            "hirdetmenyErtesitoLapszam": "218",
+            "dokumentumAzonosito": "d02b84fb-4fc5-416b-8319-d997c882847a",
+            "hirdetmenyTedUrl": null,
+            "tedLapszam": null,
+            "tedKozzetetelDatuma": null
+        }
+    ]
+}

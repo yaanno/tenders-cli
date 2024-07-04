@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": 352386,
+            "sid": "8810063033685",
+            "procurement_id": 35337,
+            "name": "\u00d6sszegez\u00e9s az aj\u00e1nlatok elb\u00edr\u00e1l\u00e1s\u00e1r\u00f3l",
+            "type": "\u00d6sszegez\u00e9s az aj\u00e1nlatok elb\u00edr\u00e1l\u00e1s\u00e1r\u00f3l",
+            "date": "2021-10-27T00:00:00.000000Z",
+            "comments": "",
+            "block": "OSSZEGZES_AJANLAT_ELBIRALAS_BLOKK",
+            "doc_id": 26622240
+        },
+        {
+            "id": 352387,
+            "sid": "8809941726549",
+            "procurement_id": 35337,
+            "name": "Aj\u00e1nlatt\u00e9telre felh\u00edvott gazdas\u00e1gi szerepl\u0151k publik\u00e1l\u00e1sa",
+            "type": "Az aj\u00e1nlatt\u00e9telre felh\u00edvott gazdas\u00e1gi szerepl\u0151k neve, c\u00edme",
+            "date": "2021-10-05T00:00:00.000000Z",
+            "comments": "",
+            "block": "AJANLATTETELRE_FELHIVOTTAK_BLOKK",
+            "doc_id": 26622241
+        },
+        {
+            "id": 352388,
+            "sid": "8809941693781",
+            "procurement_id": 35337,
+            "name": "Bont\u00e1si jegyz\u0151k\u00f6nyv",
+            "type": "Bont\u00e1si jegyz\u0151k\u00f6nyv",
+            "date": "2021-10-05T00:00:00.000000Z",
+            "comments": "",
+            "block": "BONTASI_JEGYZOKONYV_BLOKK",
+            "doc_id": 26622242
+        },
+        {
+            "id": 352389,
+            "sid": "8809861117269",
+            "procurement_id": 35337,
+            "name": "M\u00f3dos\u00edtott szerz\u0151d\u00e9stervezet",
+            "type": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "date": "2021-09-21T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622243
+        },
+        {
+            "id": 352390,
+            "sid": "8809839981909",
+            "procurement_id": 35337,
+            "name": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3 - Beny\u00fajtand\u00f3 iratok",
+            "type": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": "",
+            "block": "KOZBESZERZESI_DOKUMENTACIO_BLOKK",
+            "doc_id": 26622244
+        },
+        {
+            "id": 352391,
+            "sid": "8809839949141",
+            "procurement_id": 35337,
+            "name": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3 - Nyilatkozat \u00f6ssze\u00e1ll\u00edt\u00f3",
+            "type": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": "",
+            "block": "KOZBESZERZESI_DOKUMENTACIO_BLOKK",
+            "doc_id": 26622245
+        },
+        {
+            "id": 352392,
+            "sid": "8809839916373",
+            "procurement_id": 35337,
+            "name": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3 - Aj\u00e1nlati\/r\u00e9szv\u00e9teli felh\u00edv\u00e1s",
+            "type": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": "",
+            "block": "KOZBESZERZESI_DOKUMENTACIO_BLOKK",
+            "doc_id": 26622246
+        },
+        {
+            "id": 352393,
+            "sid": "8809839883605",
+            "procurement_id": 35337,
+            "name": "\u00c1razatlan k\u00f6lts\u00e9gvet\u00e9sek",
+            "type": "R\u00e9szletes \u00e1rt\u00e1bl\u00e1zat vagy \u00e1razatlan k\u00f6lts\u00e9gvet\u00e9s",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622247
+        },
+        {
+            "id": 352394,
+            "sid": "8809839850837",
+            "procurement_id": 35337,
+            "name": "\u00c9p\u00edt\u00e9si enged\u00e9ly",
+            "type": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622248
+        },
+        {
+            "id": 352395,
+            "sid": "8809839818069",
+            "procurement_id": 35337,
+            "name": "\u00c9p\u00edt\u00e9si enged\u00e9ly v\u00e9glegess\u00e9g\u00e9 v\u00e1l\u00e1s\u00e1r\u00f3l sz\u00f3l\u00f3 hat\u00e1rozat",
+            "type": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622249
+        },
+        {
+            "id": 352396,
+            "sid": "8809839785301",
+            "procurement_id": 35337,
+            "name": "Kivitelez\u00e9si tervek",
+            "type": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622250
+        },
+        {
+            "id": 352397,
+            "sid": "8809839752533",
+            "procurement_id": 35337,
+            "name": "Villany tervek",
+            "type": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622251
+        },
+        {
+            "id": 352398,
+            "sid": "8809839719765",
+            "procurement_id": 35337,
+            "name": "V\u00edz, g\u00e1z, f\u0171t\u00e9s tervek",
+            "type": "M\u0171szaki le\u00edr\u00e1s\/dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622252
+        },
+        {
+            "id": 352399,
+            "sid": "8809839686997",
+            "procurement_id": 35337,
+            "name": "K\u00f6zbeszerz\u00e9si dokumentumok szerz\u0151d\u00e9stervezettel",
+            "type": "K\u00f6zbeszerz\u00e9si dokument\u00e1ci\u00f3",
+            "date": "2021-09-17T00:00:00.000000Z",
+            "comments": null,
+            "block": "EGYEB_DOKUMENTUM_BLOKK",
+            "doc_id": 26622253
+        }
+    ]
+}

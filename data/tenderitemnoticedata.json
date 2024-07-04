@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": 22161384,
+            "sid": "8799863731547",
+            "date": "2021-11-09T00:00:00.000000Z",
+            "title": "Napk\u00f6ziotthonos \u00f3voda b\u0151v\u00edt\u00e9se",
+            "type_id": 2,
+            "notice_type_id": 1,
+            "regime": "national",
+            "category": "constructions",
+            "contracting_authority_id": 4503,
+            "contracting_authority_type_id": 5,
+            "cpv_count": 0,
+            "not_empty_sections_count": 5,
+            "procurement_id": 35337,
+            "procurement_sid": "EKR001092402021"
+        }
+    ]
+}
